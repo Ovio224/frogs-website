@@ -1,0 +1,56 @@
+html {
+  scroll-behavior: smooth;
+}
+
+::selection {
+  background: rgba(243, 132, 19, 0.78); /* WebKit/Blink Browsers */
+}
+
+@font-face {
+  font-family: "Momcake";
+  src: url("Momcake.otf");
+  src: url("Momcake.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Frog";
+  src: url("Frog.otf");
+  src: url("Frog.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "DIN";
+  src: url("DIN-Light.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "DIN";
+  src: url("DIN-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "DIN";
+  src: url("DIN-Medium.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "DIN";
+  src: url("DIN-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "DIN";
+  src: url("DIN-BlackAlternate.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
